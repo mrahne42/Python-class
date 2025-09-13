@@ -24,12 +24,6 @@ print(" ^^^    ^^^")
 print("^^^^^  ^^^^^")
 
 
-
-
-
-
-
-
 ########### END YER CODE ABOVE THIS LINE ###########
 
 
@@ -64,7 +58,7 @@ print("^^^^^  ^^^^^")
 1. This is your second "real" lab. What is one thing that you learned
    from your previous labs that helped you in this lab?
 
-I learned that atience is a virtue. Step away when I am frustrated
+I learned that patience is a virtue. Step away when I am frustrated
 
 
 
