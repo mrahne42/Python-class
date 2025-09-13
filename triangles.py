@@ -1,8 +1,8 @@
 # FILE NAME: triangles.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Mike Rahne
+# DATE: 9/13/2025
+# BRIEF DESCRIPTION:  An attempt at triforce - may triforce be with me
 
 
 
@@ -15,7 +15,13 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
+print("      ^")
+print("     ^^^")
+print("    ^^^^^")
+print()
+print("  ^      ^")
+print(" ^^^    ^^^")
+print("^^^^^  ^^^^^")
 
 
 
@@ -58,7 +64,7 @@
 1. This is your second "real" lab. What is one thing that you learned
    from your previous labs that helped you in this lab?
 
-
+I learned that atience is a virtue. Step away when I am frustrated
 
 
 
