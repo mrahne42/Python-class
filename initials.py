@@ -1,8 +1,8 @@
 # FILE NAME: initials.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME:Mike Rahne
+# DATE: 9/13/2025
+# BRIEF DESCRIPTION:  My attempt at Initials
 
 
 
@@ -15,12 +15,16 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
-
-
-
-
-
+print("MMMM             MMMM          RRRRRRRRRRRRRR")
+print("MM MM           MM MM         RR            RR")
+print("MM  MM         MM  MM         RR           RR")
+print("MM   MM       MM   MM         RR         RR")
+print("MM    MM     MM    MM         RR        RR")
+print("MM     MM   MM     MM         RRRRRRRRRR")
+print("MM      MM MM      MM         RR       RR")
+print("MM       MM        MM         RR        RR")
+print("MM                 MM         RR         RR")
+print("MM                 MM         RR          RR")
 
 
 
