@@ -1,8 +1,8 @@
 # FILE NAME: cyber_suite_menu.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Mike Rahne  
+# DATE: 9/14/2025
+# BRIEF DESCRIPTION:  cyber_suite_menu lab
 
 
 
@@ -31,9 +31,6 @@ print("  8. EXIT")
 print()
 print("Enter selection:")
 print("...")
-
-
-
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
