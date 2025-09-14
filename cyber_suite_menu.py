@@ -14,11 +14,23 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
-
-
-
-
+print()
+print("...")
+print()
+print("WELCOME TO THE cyber_suite")
+print()
+print("Please choose from the following menu:")
+print("  1. Password manager")
+print("  2. Examine logs")
+print("  3. Scrape website")
+print("  4. Hash")
+print("  5. Encrypt")
+print("  6. Encode")
+print("  7. Steganography")
+print("  8. EXIT")
+print()
+print("Enter selection:")
+print("...")
 
 
 
@@ -58,7 +70,7 @@ Enter selection:
 1. This is the last exercise for the chapter! Imagine you are talking to a new Python learner. What
    advice do you have for someone who is just getting started and getting ready to do their first lab?
 
-
+You will make mistakes. Have patience and embrace it.
 
 
 
