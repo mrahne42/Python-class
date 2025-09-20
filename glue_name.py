@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Mike Rahne
+# DATE: 9/20/2025
+# BRIEF DESCRIPTION:  glue_name attempt
 
 
 
