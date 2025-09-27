@@ -1,7 +1,7 @@
 # FILE NAME - random_number.py
 
-# NAME:
-# DATE:
+# NAME: Mike Rahne
+# DATE: 9/27/2025
 # BRIEF DESCRIPTION:
 
 
