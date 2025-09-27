@@ -2,7 +2,7 @@
 
 # NAME: Mike Rahne
 # DATE: 9/27/2025
-# BRIEF DESCRIPTION:
+# BRIEF DESCRIPTION: My random_number attempt
 
 
 
@@ -21,12 +21,10 @@ def main():
     generate_random_number()
 
 def generate_random_number():
-    ## TODO: Replace the code below with your code
-    print("Your code goes here")
-
-
-main()
-
+ 
+import random
+random_number = random.random()
+print(random_number)
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -68,7 +66,7 @@ main()
 
 1. Why is your output most certainly different than the sample output?
 
-
+It is different because it is not seeded.
 
 
 
