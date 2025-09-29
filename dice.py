@@ -1,8 +1,8 @@
 # FILE NAME - dice.py
 
-# NAME:
-# DATE:
-# BRIEF DESCRIPTION:
+# NAME: Mike Rahne
+# DATE: 9/28/2025
+# BRIEF DESCRIPTION: my_attempt_at_dice.py
 
 
 
@@ -16,16 +16,15 @@ import random
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+import random
 
-def main():
-    roll_die()
+die_roll = input('Enter a seed for the random number generation: ')
+random.seed(die_roll)
 
-def roll_die():
-    ## TODO: Replace the code below with your code
-    print("Your code goes here")
+die_one = random.randint(1,6)
+die_two = random.randint(1,6)
 
-
-main()
+print(f'Die roll one is {die_one}\nDie roll two is {die_two}')
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
