@@ -2,7 +2,7 @@
 
 # NAME: Mike Rahne
 # DATE: 9/27/2025
-# BRIEF DESCRIPTION: My random_number attempt
+# BRIEF DESCRIPTION: My random_number_attempt
 
 
 
