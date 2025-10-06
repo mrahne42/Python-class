@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Mike Rahne
+# DATE: 10/6/2025
+# BRIEF DESCRIPTION: My grade_converter submission 
 
 
 
@@ -15,14 +15,29 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+def main():
+    grade_convert()
+def grade_convert():
+
+    print('===== Grade Converter =====')
+    grade = int(input('Enter a numerical grade (1-100): '))
+
+    if grade >= 100:
+        print('A+')
+    elif grade >= 90:
+        print('A')
+    elif grade >= 80:
+        print('B')
+    elif grade >= 70:
+        print('C')
+    elif grade >= 65:
+        print('D')
+    elif grade < 65:
+        print('F')
 
 
 
-
-
-
-
-
+main()
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
@@ -76,7 +91,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+# As with all of the labs, I would suggest paying close attention to the suggested outputs to ensure that you're matching exactly what is expected.
 
 
 
